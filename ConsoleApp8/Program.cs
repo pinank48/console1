@@ -10,7 +10,7 @@ namespace ConsoleApp8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Jenkins");
+            Console.WriteLine("Hello Jenkins with Local Host:");
             Console.ReadLine();
         }
     }
